@@ -54,3 +54,5 @@ gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
 
 # gem "amazing_print", "~> 1.3"
+
+gem "administrate", "~> 0.16.0"
